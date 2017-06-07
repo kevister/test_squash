@@ -1,5 +1,8 @@
 # test_squash
-test
+t
+e
+s
+t
 a
 d
 f
