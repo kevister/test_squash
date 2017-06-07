@@ -1,3 +1,5 @@
 # test_squash
 test
-adfasdf
+a
+d
+fasdf
